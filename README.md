@@ -1,4 +1,4 @@
-# The-Finsler-Friedmann-equation--general-relativity-equation-on-finsler-space
+# The-Finsler-Friedmann-equation--General-Relativity-on-Finsler-space
 
 [2504.08062] From kinetic gases to an exponentially expanding universe - The Finsler-Friedmann equation
 https://arxiv.org/abs/2504.08062
