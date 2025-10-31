@@ -4,6 +4,11 @@ NASA
 Goodbye Dark Energy! Did Scientists Just Solve the Cosmic Expansion Mystery? 
 https://youtu.be/qP-0BUq2o0E?si=e3VzgU2V3jwpWp66 via @YouTube 
 
+From kinetic gases to an exponentially expanding universe — the Finsler-Friedmann equation - IOPscience
+https://iopscience.iop.org/article/10.1088/1475-7516/2025/10/050  
+Christian Pfeifer, Nicoleta Voicu, Annamária Friedl-Szász and Elena Popovici-Popescu  
+Published 14 October 2025
+
 [2504.08062] From kinetic gases to an exponentially expanding universe - The Finsler-Friedmann equation
 https://arxiv.org/abs/2504.08062
 
