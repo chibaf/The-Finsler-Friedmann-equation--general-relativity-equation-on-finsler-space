@@ -1,5 +1,9 @@
 # The-Finsler-Friedmann-equation--General-Relativity-on-Finsler-space
 
+NASA  
+Goodbye Dark Energy! Did Scientists Just Solve the Cosmic Expansion Mystery? 
+https://youtu.be/qP-0BUq2o0E?si=e3VzgU2V3jwpWp66 via @YouTube 
+
 [2504.08062] From kinetic gases to an exponentially expanding universe - The Finsler-Friedmann equation
 https://arxiv.org/abs/2504.08062
 
