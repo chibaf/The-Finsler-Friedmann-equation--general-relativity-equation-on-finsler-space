@@ -11,7 +11,6 @@ Published 14 October 2025
 
 [2504.08062] From kinetic gases to an exponentially expanding universe - The Finsler-Friedmann equation
 https://arxiv.org/abs/2504.08062  
-
 "We derive the Finsler gravity equation in homogeneous and isotropic symmetry in conformal time – dubbed the Finsler-Friedmann equation – which determines both the scale factor and the causal structure dynamically.
 Remarkably, this equation naturally admits a vacuum solution describing an exponentially expanding spacetime, without requiring a cosmological constant or any additional quantities."
 
