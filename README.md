@@ -3,11 +3,11 @@
 [2504.08062] From kinetic gases to an exponentially expanding universe - The Finsler-Friedmann equation
 https://arxiv.org/abs/2504.08062
 
-Goodbye Dark Energy! Did Scientists Just Solve the Cosmic Expansion Mystery? 
-https://youtu.be/qP-0BUq2o0E?si=e3VzgU2V3jwpWp66 via @YouTube 
-
 We derive the Finsler gravity equation in homogeneous and isotropic symmetry in conformal time – dubbed the Finsler-Friedmann equation – which determines both the scale factor and the causal structure dynamically.
 Remarkably, this equation naturally admits a vacuum solution describing an exponentially expanding spacetime, without requiring a cosmological constant or any additional quantities.
+
+Goodbye Dark Energy! Did Scientists Just Solve the Cosmic Expansion Mystery? 
+https://youtu.be/qP-0BUq2o0E?si=e3VzgU2V3jwpWp66 via @YouTube 
 
 xAct: Efficient tensor computer algebra for the Wolfram Language
 https://xact.es
