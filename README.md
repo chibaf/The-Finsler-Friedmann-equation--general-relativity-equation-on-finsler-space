@@ -1,8 +1,11 @@
 # The-Finsler-Friedmann-equation--General-Relativity-on-Finsler-space
 
-NASA  
+NASA Space News - YouTube
 Goodbye Dark Energy! Did Scientists Just Solve the Cosmic Expansion Mystery? 
 https://youtu.be/qP-0BUq2o0E?si=e3VzgU2V3jwpWp66 via @YouTube 
+
+NASA Space News - YouTube
+https://www.youtube.com/@NSpaceNews
 
 From kinetic gases to an exponentially expanding universe — the Finsler-Friedmann equation - IOPscience
 https://iopscience.iop.org/article/10.1088/1475-7516/2025/10/050  
@@ -26,9 +29,6 @@ beyond metric geometry
 Christian Pfeifer  
 Hamburg 2013
 https://s3.cern.ch/inspire-prod-files-0/08a845d30c845b090840a777ee909940 (PDF)
-
-NASA Space News - YouTube
-https://www.youtube.com/@NSpaceNews
 
 相対性理論の拡張については
 SGCライブラリ  170
